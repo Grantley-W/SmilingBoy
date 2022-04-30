@@ -1,0 +1,11 @@
+release/choosewindow.o
+release/counter.o
+release/main.o
+release/mainscene.o
+release/shootitem.o
+release/shootscene.o
+release/qrc_res.o
+release/moc_choosewindow.o
+release/moc_counter.o
+release/moc_mainscene.o
+release/moc_shootscene.o

@@ -1,0 +1,11 @@
+debug/choosewindow.o
+debug/counter.o
+debug/main.o
+debug/mainscene.o
+debug/shootitem.o
+debug/shootscene.o
+debug/qrc_res.o
+debug/moc_choosewindow.o
+debug/moc_counter.o
+debug/moc_mainscene.o
+debug/moc_shootscene.o
